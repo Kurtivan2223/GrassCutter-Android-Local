@@ -15,14 +15,12 @@ e.g
 ![App Screenshot](https://raw.githubusercontent.com/Kurtivan2223/GrassCutter-Android-Local/main/Screenshot/IP.PNG)
 
 ```
-"bindAddress": "0.0.0.0",
 "accessAddress": "127.0.0.1",
 ```
 into
 
 e.g
 ```
-"bindAddress": "192.168.254.105",
 "accessAddress": "192.168.254.105",
 ```
 ##

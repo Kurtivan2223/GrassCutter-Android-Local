@@ -11,14 +11,6 @@ download apk at
 
 [Github](https://github.com/577fkj/GenshinProxy/releases/tag/releases)
 
-## GrussCutter for Android
-
-***NOTE***
-- Only for local not public
-- 2.7 guide
-
-Let's say done setting up the server.
-
 ## ****[MitmProxy Edition]****
 ****[config.json]****
 

@@ -111,7 +111,7 @@ PORT SSL
 ##
 
 ****[nginx.conf]****
-`
+```
 worker_processes  1;
 
 events {
@@ -156,7 +156,7 @@ http {
         return 404;
     }
 }
-`
+```
 
 **NOTE:** After setting up nginx just connect to it, if ssl is invalid just check skip ssl verification
 

@@ -137,10 +137,10 @@ http {
         listen [::]:443 ssl ipv6only=on;
         
         ssl_certificate certificate/private.pem;     
-		ssl_certificate_key certificate/private.key;
+	ssl_certificate_key certificate/private.key;
 
-		ssl_protocols       TLSv1 TLSv1.1 TLSv1.2 TLSv1.3;
-		ssl_ciphers         HIGH:!aNULL:!MD5;
+	ssl_protocols       TLSv1 TLSv1.1 TLSv1.2 TLSv1.3;
+	ssl_ciphers         HIGH:!aNULL:!MD5;
     }
 
     server {

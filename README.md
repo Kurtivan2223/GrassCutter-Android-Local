@@ -1,4 +1,17 @@
-# GrussCutter for Android
+# Overview
+- [APK](#patched-apk)
+- [Mitm Proxy](#mitmproxy-edition)
+- [Nginx Reverse Proxy](#nginx-reverse-proxy-edition)
+
+#
+
+# ****[Patched Apk]****
+
+download apk at
+
+[Github](https://github.com/577fkj/GenshinProxy/releases/tag/releases)
+
+## GrussCutter for Android
 
 ***NOTE***
 - Only for local not public
@@ -83,16 +96,6 @@ in browser access
 Navigate to android part and choose *Get mitmproxy-ca-cert.cer*
 
 Instruction for installing the cert is included in the site.
-
-##
-
-****[Patched Apk]****
-
-download apk at
-
-[Github](https://github.com/577fkj/GenshinProxy/releases/tag/releases)
-
-##
 
 ## ****[NGINX Reverse Proxy Edition]****
 
